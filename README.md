@@ -1,15 +1,26 @@
-## Modulo para Magento CE 2.0.x
-Extencion para agregar la Billetera ClipClap como metodo de pago
+Extención Billetera ClipClap para Opencart 2.0.x
+================
 
-### Instalacion
-1. Cree una cuenta en el Marketplace de Magento
-2. Buscar en el Market place de magento la extencion ClipClap
-3. Dar click en obtener llave (Get extention key) copie la llave y gaurdela
-4. En la configuración de su tienda de Magento en la pestaña de Magento Connect pegue la llave que copio desde el Marketplace
-5. Puede encontrar la pestaña en System->Magento Connect->Magento Connect Manager.
-6. Una ves instalado puede refrescar la pagina apra ver la extencion instalada
+Si tienes una tienda implementada en [Opencart](http://www.opencart.com/) puedes usar esta extención para aceptar pagos atraves de la App Billetera ClipClap
 
-### Configuracion
-1. Las opciones de configuracion se encuentran en la seccion de Stores > Configuration > Sales > Payment Methods.
-2. Ingrese los datos de su cuenta de ClipClap.
-3. Seleccione Yes en la opcion Activar en la seccion ClipClap y click luego en Save Config.
+Guia de Instalación:
+---
+
+
+- Copiar las carpetas 'admin' and 'catalog' en la raiz de su instalacion de Opencart
+- Entrar al panel de administracion de Opencart > Escoger  "Extentions" -> "Payment"
+- Busque el metodo "ClipClap"
+- Dar click en  "Install"
+- Dar click en "Change"
+- Ingrese los datos de su cuenta ClipClap y las configuraciones que desee
+- Seleccione Activar en el menu Estado
+
+**Información**
+
+- Module Name: ClipClap Extention para Opencart 2.0.x
+- Module URI: http://clipclap.com.co/
+- Description: Extención Billetera ClipClap para Opencart 2.0.x. Recibe pagos en atraves de la billetera ClipClap
+- Version: 1.0.0
+- Author: Jairo Ivan Rondon Mejia @digitalhydra
+- License: GNU General Public License v3.0
+- License URI: http://www.gnu.org/licenses/gpl-3.0.html
