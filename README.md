@@ -1,19 +1,15 @@
-Plugin Billetera ClipClap para Woocommerce
-================
+## Modulo para Magento CE 2.0.x
+Extencion para agregar la Billetera ClipClap como metodo de pago
 
-Si tienes una tienda implementada en [WordPress](https://www.wordpress.org) y [Woocommerce](https://wordpress.org/plugins/woocommerce/)  puedes usar este plugin para aceptar pagos atraves de la App Billetera ClipClap
+### Instalacion
+1. Cree una cuenta en el Marketplace de Magento
+2. Buscar en el Market place de magento la extencion ClipClap
+3. Dar click en obtener llave (Get extention key) copie la llave y gaurdela
+4. En la configuración de su tienda de Magento en la pestaña de Magento Connect pegue la llave que copio desde el Marketplace
+5. Puede encontrar la pestaña en System->Magento Connect->Magento Connect Manager.
+6. Una ves instalado puede refrescar la pagina apra ver la extencion instalada
 
-Guia de Instalación:
----
-
-* Asegurese de tener Wocommerce actualizado y activo antes de seguir con los siguientes pasos.
-* Descomprima y Suba el contenido del plugin a `/wp-content/plugins/` .
-* En el administrador de wordpress en la seccion de plugins active el plugin **WooCommerce - ClipClap Gateway**.
-
-Configuración
----
-* Valla a la seccion de ajustes de **WooCommerce**, y de click en la pestaña Finalizar compra.
-* Seleccione **ClipClap** para editar las opciones. Si la opcione **ClipClap** no aparece verifique que se haya activado el plugin primero.
-* Seleccione la opcion Activar pagos por ClipClap.
-* Configure las opciones necesarias como los datos de su cuenta y el nombre del metodo de pago.
-* Guarde los cambios.
+### Configuracion
+1. Las opciones de configuracion se encuentran en la seccion de Stores > Configuration > Sales > Payment Methods.
+2. Ingrese los datos de su cuenta de ClipClap.
+3. Seleccione Yes en la opcion Activar en la seccion ClipClap y click luego en Save Config.
