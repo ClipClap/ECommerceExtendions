@@ -6,7 +6,4 @@ E-commerce extensions for ClipClap's PayButton
 * [WooCommerce](https://github.com/ClipClap/ECommerceExtendions/tree/Woocommerce)
 * [Opencart](https://github.com/ClipClap/ECommerceExtendions/tree/Opencart)
 * [Magento](https://github.com/ClipClap/ECommerceExtendions/tree/Magento)
-
-## Proximamente:
-
-* PrestaShop
+* [PrestaShop](https://github.com/ClipClap/ECommerceExtendions/tree/prestashop)
