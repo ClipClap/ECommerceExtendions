@@ -1,4 +1,4 @@
-Plugin Billetera ClipClap para Woocommerce
+﻿Plugin Billetera ClipClap para Woocommerce 
 ================
 
 Si tienes una tienda implementada en [WordPress](https://www.wordpress.org) y [Woocommerce](https://wordpress.org/plugins/woocommerce/)  puedes usar este plugin para aceptar pagos atraves de la App Billetera ClipClap
