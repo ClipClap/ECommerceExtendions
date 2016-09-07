@@ -1,4 +1,4 @@
-Extención Billetera ClipClap para Opencart 2.0.x
+﻿Extención Billetera ClipClap para Opencart 2.0.x
 ================
 
 Si tienes una tienda implementada en [Opencart](http://www.opencart.com/) puedes usar esta extención para aceptar pagos atraves de la App Billetera ClipClap
@@ -9,8 +9,8 @@ Guia de Instalación:
 
 - Copiar las carpetas 'admin' and 'catalog' en la raiz de su instalacion de Opencart
 - Entrar al panel de administracion de Opencart > Escoger  "Extentions" -> "Payment"
-- Busque el metodo "ClipClap"
-- Dar click en  "Install"
+- Busque el metodo "ClipClap" 
+- Dar click en  "Install" 
 - Dar click en "Change"
 - Ingrese los datos de su cuenta ClipClap y las configuraciones que desee
 - Seleccione Activar en el menu Estado
